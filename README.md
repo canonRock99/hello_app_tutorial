@@ -1,24 +1,13 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+これはRailsチュートリアルの練習用リポジトリです。
 
-Things you may want to cover:
+# 作成日
 
-* Ruby version
+2024/06/11
 
-* System dependencies
+## 今後の予定
 
-* Configuration
+特になし
 
-* Database creation
 
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
