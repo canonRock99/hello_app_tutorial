@@ -33,3 +33,6 @@
 
 # Ignore master key for decrypting credentials and more.
 /config/master.key
+
+# ドットインストールでignoreファイルの使い方を確認
+memo.txt
